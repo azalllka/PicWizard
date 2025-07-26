@@ -1,0 +1,9 @@
+{
+    "require": {
+        "intervention/image": "^2.7",
+        "telegram-bot/api": "^2.3"
+    },
+    "require-dev": {
+        "jetbrains/phpstorm-stubs": "^2024.3"
+    }
+}
